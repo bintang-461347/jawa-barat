@@ -1,7 +1,13 @@
 available: false
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Bandung
+    probability: 1
+  - name: Bogor
+    probability: 1
+  - name: Bekasi
+    probability: 1
 name: Jawa Barat
 source: null
 subsets: []
